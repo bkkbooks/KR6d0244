@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0244/v1
 canonical_location: https://kanripo.org/bkk/KR6d0244/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 增修教苑清規
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0244_000.yaml, hash: 'sha256:15073b6448a2da92a53eac105a6c4d96c8a918e4a93f970b418ca15fbecfe2b3'}
-  - {seq: 1, filename: KR6d0244_001.yaml, hash: 'sha256:ba96a078c55769a33c0fa6075420f974469bacb836a64056c32beea32d38aa44'}
-  - {seq: 2, filename: KR6d0244_002.yaml, hash: 'sha256:5c44e3d0884c7a33c16971c71874b0a97e777294ba0cd8843d8e2e191fa051c3'}
+  - {seq: 0, filename: KR6d0244_000.yaml, hash: 'sha256:306a0d2b6cc2594e180a6991e23928854f154382bb66298ddea34a43b825b4b6'}
+  - {seq: 1, filename: KR6d0244_001.yaml, hash: 'sha256:bcba9212d1d253215bd90cf0f92657372c6b5ffbe7d0d80378920044a0627690'}
+  - {seq: 2, filename: KR6d0244_002.yaml, hash: 'sha256:26f1d97dcdcfa1cbcf4464874b9bcc12baf4a5ea2c34618c91df059b78cfcb8e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0244_000.markers.yaml, hash: 'sha256:0cab6a0a4ff0728b2294c1ef5b524eda784067e7b1f865690f52db983f724279'}
-  - {seq: 1, role: markers, filename: assets/KR6d0244_001.markers.yaml, hash: 'sha256:0bb65112b728344a58f9e466cea774f630c94659178af60901ebc92c0055df5e'}
-  - {seq: 2, role: markers, filename: assets/KR6d0244_002.markers.yaml, hash: 'sha256:41805570dd279b4ec94d678df6c3197c9a6a80cab285c5a0b8cdd58c28215c82'}
+  - {seq: 0, role: markers, filename: assets/KR6d0244_000.markers.yaml, hash: 'sha256:f9ebf237b559fd37ed2cc169742bfef345ade29644faef4974b88c0f591e3b5e'}
+  - {seq: 1, role: markers, filename: assets/KR6d0244_001.markers.yaml, hash: 'sha256:c38d03a25b90baed14e3e648c2b9c82b81b24ddb1128d8f1b2dd4ee088ae782f'}
+  - {seq: 2, role: markers, filename: assets/KR6d0244_002.markers.yaml, hash: 'sha256:5be5dc1bc371e23394c02d2b8d73f41eb2415c9ef7bea24c465c65da3e4a75da'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2599,4 +2599,7 @@ table_of_contents:
   label: No. 968-D 書教苑清規後
   type: mulu
   level: 1
-hash: sha256:9e2795601915e55257aa7d6c6908317d59b648dfaf48667794659b802940c97b
+hash: sha256:d501f9ce8185f1674ab3b4c8340eb6260cfff274703a1acb69721ae9a4fe8400
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
