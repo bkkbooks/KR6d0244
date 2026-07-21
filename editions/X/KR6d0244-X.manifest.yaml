@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0244_000-X.yaml, hash: 'sha256:15073b6448a2da92a53eac105a6c4d96c8a918e4a93f970b418ca15fbecfe2b3'}
+  - {seq: 0, filename: KR6d0244_000-X.yaml, hash: 'sha256:9298e6202a0d86ad7f64c743a3d601bd14f73fc973bec2e012b112b5afe91801'}
   - {seq: 1, filename: KR6d0244_001-X.yaml, hash: 'sha256:ba96a078c55769a33c0fa6075420f974469bacb836a64056c32beea32d38aa44'}
   - {seq: 2, filename: KR6d0244_002-X.yaml, hash: 'sha256:5c44e3d0884c7a33c16971c71874b0a97e777294ba0cd8843d8e2e191fa051c3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0244_000-X.markers.yaml, hash: 'sha256:6fec151df1c5f9e98f3734bfa2a9812cdd0b9ab3aa2835308a24db4c01f85cc8'}
+  - {seq: 0, role: markers, filename: assets/KR6d0244_000-X.markers.yaml, hash: 'sha256:7cbcd073cd81d5ba1702db6563eff42d517503e41863747197fd8cc787aaf1a7'}
   - {seq: 1, role: markers, filename: assets/KR6d0244_001-X.markers.yaml, hash: 'sha256:c1b5c0d06afd2b6bbffc8aabb6a24f075a7a9141d4a688ec439a6046c7d05db2'}
   - {seq: 2, role: markers, filename: assets/KR6d0244_002-X.markers.yaml, hash: 'sha256:143177adf0269a510fc5b4755c86f616f1ecfe9e626cb4987d56b47e08c35773'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0244_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 968-A 教苑清規序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0244_X_000-mulu-2
     span:
-    - front
+    - body
     - 403
     - 403
   label: No. 968-B
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0244_X_000-mulu-3
     span:
-    - front
+    - body
     - 572
     - 572
   label: No. 968-C
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0244_X_000-mulu-4
     span:
-    - front
+    - body
     - 908
     - 908
   label: 增修教苑清規目錄
@@ -2597,4 +2597,4 @@ table_of_contents:
   label: No. 968-D 書教苑清規後
   type: mulu
   level: 1
-hash: sha256:e0804fb7129aa1da2f961b47ea508f8f34ad5e922c25132a011d9078d3a7aae0
+hash: sha256:b6880a5855b302b08cc8b886d72cc64a297d2d23680063626b16bc5738bae481
